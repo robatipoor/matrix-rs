@@ -1,0 +1,11 @@
+[package]
+name = "matrix-rs"
+version = "0.1.0"
+authors = ["robatioor <mahdi.robatipoor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+signal-hook = "0.1.6"
+ansi_term = "0.11.0"
+termion = "1.5.1"
+rand = "0.6.1"
